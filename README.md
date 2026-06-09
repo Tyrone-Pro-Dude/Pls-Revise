@@ -32,11 +32,5 @@ This application is engineered using modern Android development best practices a
 - `kotlin+java/` — Clean MVVM logic separation (Entities, DAOs, ViewModels, and Composable screen views).
 - `res/` — Decoupled system resources housing structural drawables, multi-density launch icons, and localized themes.
 
----
-
-## 🚀 Getting Started
-
-1. Clone this repository: `git clone https://github.com/YOUR_USERNAME/Pls-Revise.git`
-2. Open the project folder inside **Android Studio** or your preferred AI-driven code editor.
 3. Sync the Gradle files to automatically download all required dependencies.
 4. Select an Android Emulator or attach a physical device and hit **Run**.
